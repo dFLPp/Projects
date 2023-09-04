@@ -1,0 +1,11 @@
+{
+    "name": "Felipe Castro",
+    "age": "20",
+    "schooling": "Gradução",
+    "desc1": "Yo. Meu nome é Felipe Castro, tenho 20 anos e atualmente estou cursando o 5° périodo do bacharelado (graduação) em Engenharia Elétrica da UFPE.",
+    "desc2": "Sempre tive interesse em jogos e em como eles são feitos mas só entrei no mundo da programação por meados de 2019, quando estava em lockdown, devido a covid-19, com a típica triáde: HTML, CSS e JS. Desde então consumi inúmeros cursos e construi muitos projetos mas não tenho experiência em projetos reais/empresariais.",
+    "info": {
+        "github": "https://github.com/dFLPp",
+        "linkedIn": "https://www.linkedin.com/in/someflp/"
+    }
+}

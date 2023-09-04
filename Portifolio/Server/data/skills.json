@@ -1,0 +1,77 @@
+{
+    "desc1": "Estou listando tudo oq já estudei, mas quase tudo já esqueci pq caiu em desuso - não sei o quam comum isso é para um desenvolvedor pro. contudo acho/quero acreditar que isso é melhor que nada e me classifica de alguma maneira melhor em algum processo seletivo",
+    "desc2": {
+        "header": "Só pra ter uma ideia da escala:",
+        "levels": [
+            "15 - Junior",
+            "10 - Trainee",
+            "5 - Hobbista"
+        ]
+    },
+    "languages": [
+        {
+            "name": "Visualg",
+            "grade": "1",
+            "desc": "Foi a primeira 'linguagem' que aprendi. Muito da lógica de programação que tenho veio daí, mas como n sou um especialista e nem lembro da sintaxe, me dou essa nota. É mais uma homenagem."
+        },
+        {
+            "name": "Javascript",
+            "grade": "8",
+            "desc": "É a linguagem q eu mais uso, mas não pq eu gosto - é a que tem resultados mais visuais (é só linkar num .html e ver o resultado no console, sem precisar setar server ou compilar nem nada do tipo.)"
+        },
+        {
+            "name": "Python",
+            "grade": "5",
+            "desc": "Sei da sintaxe e etc. Já brinquei com notebooks e o pandas e já fiz até um curso sobre/com python na faculdade (integrais, EDO's and such). Mas como não tenho motivo para usar diariamente (a não ser o github que tô buildando) e não acho o OOP dele 'agradável' não uso muito"
+        },
+        {
+            "name": "C, C++ e C#",
+            "grade": "4",
+            "desc": "Aprendi C numa matéria da faculdade e fiquei sabendo que os outros C's eram parecidos então decidi tentar. Do mesmo jeito q python, elas n tem muita utilidade pra mim no dia dia, mas de vez enquando - quando vou treinar/revisar estruturas de dados e algoritimos - dou uma relembrada na sintaxe"
+        },
+        {
+            "name": "Java",
+            "grade": "6",
+            "desc": "aprendi java pq estava no edital de um concurso que fiz. Não manjo muito mas tenho usado para aprender conceitos de arquitetura de código e engenharia de software"
+        },
+        {
+            "name": "SQL",
+            "grade": "5",
+            "desc": "Também estudei SQL pq estava em edital, ent conheço coisas em detalhes desnecessários como acesso obrigatório/descricionário, triggers, views materializadas, teorama CAP, ACID, BASE (quimicamente engraçado) e etc"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Git",
+            "grade": "6",
+            "desc": "Conheço conceitos como blobs, hashs, staging area, cherry picking e etc, mas não prática (projetos) só uso add e commit"
+        },
+        {
+            "name": "Docker",
+            "grade": "3",
+            "desc": "Aprendi quando migrei pro linux e aprendi (pouco) sobre o OS e virtual machines. Sei oq é uma docker file, images e até criei um container para exclusivo para brincar com os jupyter notebooks (antes de descobrir o jupyter lab)"
+        },
+        {
+            "name": "Linux e CLI",
+            "grade": "5",
+            "desc": "A experiência de tentar instalar o Arch (na marra e na wiki) no meu notebook me transformou em homem. Estudei linux com um curso preparatório para a LPIC (uma certificação de entrada em linux) e de brinde aprendi alguns comandos (não scripts)"
+        }
+    ],
+    "frameworks": [
+        {
+            "name": "React",
+            "grade": "3",
+            "desc": "Aprendi no freecodecamp a bastante tempo. Como n me manti fiel e como as coisas evoluem foram de controle mei q esqueci boa parte."
+        },
+        {
+            "name": "Svelte",
+            "grade": "6",
+            "desc": "É divertida de aprender e meu objeto de estudos atual (motivo para estar fazendo um portifólio)"
+        }
+    ],
+    "outro": [
+        "Typescript",
+        "Agile",
+        "Extreme Programming"
+    ]
+}
